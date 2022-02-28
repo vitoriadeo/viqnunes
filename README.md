@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viqnunes
-- 👀 I’m interested in web/mobile development
-- 🌱 I’m currently learning C#, Node.JS, GIT, React Native and DB
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning C#, JS, GIT, and DB
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me >> linktr.ee/viqnunes
 
